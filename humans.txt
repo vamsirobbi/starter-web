@@ -8,7 +8,13 @@
 # THANKS
 
     <name>
+<<<<<<< HEAD
+
 modified by name
+=======
+hi how r u..
+
+>>>>>>> added text to human.txt
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
